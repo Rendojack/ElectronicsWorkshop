@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b7bd10e9a147c0344afd9b9be912e57e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Flaticon
+  fontNames:
+  - Flaticon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c8326d3340d9ddc47846a6f381693183, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
